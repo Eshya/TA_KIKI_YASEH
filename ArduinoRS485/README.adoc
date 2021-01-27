@@ -2,6 +2,8 @@
 
 Enables sending and receiving data using the RS485 standard with RS485 shields, like the MKR 485 Shield.
 
+Edit for using ESP8266
+
 This library supports the Maxim Integrated MAX3157 and equivalent chipsets.
 
 For more information about this library please visit us at
